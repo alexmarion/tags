@@ -1,4 +1,6 @@
 {
+  "name": "tags",
+  "version": "1.0.0",
   "devDependencies": {
     "@commitlint/cli": "^8.2.0",
     "@commitlint/config-conventional": "^8.2.0",
